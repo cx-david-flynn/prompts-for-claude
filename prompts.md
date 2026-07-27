@@ -19,5 +19,3 @@ Source: Justin Ruth
 I want to create a simple vulnerable application that includes a reflective XSS in a query parameter which can trigger an email address update on an account through a CSRF.  Can you help?
 The tech stack can be javascript and JAVA but should stay away from templating languages like ruby on rails or flask.
 ```
-
-Source: 
